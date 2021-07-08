@@ -1,0 +1,3 @@
+confirmation of 'Add' and 'Delete'.
+Edit the 'Delete' button.
+
