@@ -1,3 +1,6 @@
-confirmation of 'Add' and 'Delete'.
-Edit the 'Delete' button.
+i) Edit from different page.
+ii) Delete from different page.
+iii) confirmation of 'Add' and 'Delete'.
+iv) Edit the 'Delete' button.
+08-07-21
 
